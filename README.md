@@ -5,7 +5,7 @@ First Full-Stack project..
 
 ## Technologies Used:
 
-### Angular js,  (as Frontend)<br>
+#### Angular js,  (as Frontend)<br>
 ### Spring Boot, (as Backend)<br>
 ### Boostrap,    (for fast and easy production)<br>
 ### CSS,         (for styling/designing)<br>
