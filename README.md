@@ -5,26 +5,16 @@ First Full-Stack project..
 
 ## Technologies Used:
 
-#### Angular js,  (as Frontend)<br>
-### Spring Boot, (as Backend)<br>
-### Boostrap,    (for fast and easy production)<br>
-### CSS,         (for styling/designing)<br>
-### JS,          (for functionality)
+#### <p>Angular js,  (as Frontend)<br>Spring Boot, (as Backend)<br>Boostrap,    (for fast and easy production)<br>CSS,         (for styling/designing)<br>JS,          (for functionality)</p>
 
 
 ## What new things have I Learned?
 
-### <i>API Integration,<br>
-### Boostrap & CSS & JS<br>
-### Spring MVC
-### </i>
+#### <p><i>API Integration,<br>Boostrap & CSS & JS<br>Spring MVC</i></p>
 
 
 ## reference..
 
-### Stack Overflow,<br>
-### W3Schools,<br>
-### Angular.io<br>
-### Course Guide, tutor
+#### <p>Stack Overflow,<br>W3Schools,<br>Angular.io<br>Course Guide, tutor</p>
 
 
