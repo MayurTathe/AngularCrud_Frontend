@@ -1,27 +1,30 @@
-# AngularCURD
+# Angular CURD Operation
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Created a simple Full-Stack "CRUD operation" project.
+First Full-Stack project..
 
-## Development server
+## Technologies Used:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Angular js,  (as Frontend)<br>
+### Spring Boot, (as Backend)<br>
+### Boostrap,    (for fast and easy production)<br>
+### CSS,         (for styling/designing)<br>
+### JS,          (for functionality)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## What new things have I Learned?
 
-## Build
+### <i>API Integration,<br>
+### Boostrap & CSS & JS<br>
+### Spring MVC
+### </i>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## reference..
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Stack Overflow,<br>
+### W3Schools,<br>
+### Angular.io<br>
+### Course Guide, tutor
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
